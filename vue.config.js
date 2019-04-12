@@ -2,7 +2,7 @@ const RAP = 'http://rap2api.taobao.org/app/mock/14718'
 
 module.exports = {
     publicPath: './', // js引用路径
-    outputDir: './dist', // 打包路径
+    outputDir: '../static-build/backend-element-vue', // 打包路径
     assetsDir: 'static',
     lintOnSave: true,
     productionSourceMap: false,
